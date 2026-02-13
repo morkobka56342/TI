@@ -1,0 +1,10 @@
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\bin\Debug\TI_LAB_1.exe.config
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\bin\Debug\TI_LAB_1.exe
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\bin\Debug\TI_LAB_1.pdb
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.csproj.AssemblyReference.cache
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.MainForm.resources
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.Properties.Resources.resources
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.csproj.GenerateResource.cache
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.exe
+C:\Users\виктор\Desktop\ТИ\Lab1\TI_LAB_1\TI_LAB_1\obj\Debug\TI_LAB_1.pdb
