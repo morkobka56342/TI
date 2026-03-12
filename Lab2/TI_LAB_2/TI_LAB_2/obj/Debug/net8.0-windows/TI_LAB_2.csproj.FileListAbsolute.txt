@@ -1,0 +1,16 @@
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\bin\Debug\net8.0-windows\TI_LAB_2.exe
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\bin\Debug\net8.0-windows\TI_LAB_2.deps.json
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\bin\Debug\net8.0-windows\TI_LAB_2.runtimeconfig.json
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\bin\Debug\net8.0-windows\TI_LAB_2.dll
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\bin\Debug\net8.0-windows\TI_LAB_2.pdb
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.MainForm.resources
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.csproj.GenerateResource.cache
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.AssemblyInfoInputs.cache
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.AssemblyInfo.cs
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.csproj.CoreCompileInputs.cache
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.dll
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\refint\TI_LAB_2.dll
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.pdb
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\TI_LAB_2.genruntimeconfig.cache
+C:\Users\виктор\Desktop\ТИ\Lab2\TI_LAB_2\TI_LAB_2\obj\Debug\net8.0-windows\ref\TI_LAB_2.dll
